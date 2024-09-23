@@ -1,0 +1,6 @@
+﻿  PROJECT3.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h(555,1): warning C4005: '_Must_inspect_result_': macro redefinition
+C:\Users\DELL\source\repos\PROJECT3\PROJECT3.cpp : message : see previous definition of '_Must_inspect_result_'
+C:\Users\DELL\source\repos\PROJECT3\PROJECT3.h(240,15): warning C4101: 't': unreferenced local variable
+C:\Users\DELL\source\repos\PROJECT3\PROJECT3.h(108): warning C4715: 'MyAVL::bf': not all control paths return a value
+  PROJECT3.vcxproj -> C:\Users\DELL\source\repos\PROJECT3\Debug\PROJECT3.exe
